@@ -8,7 +8,7 @@ public class Solution
 {
     public static void main(String[] args)
     {
-        //Напишите тут ваш код
+        System.out.println("DEC 23 1986");
 
     }
 }
