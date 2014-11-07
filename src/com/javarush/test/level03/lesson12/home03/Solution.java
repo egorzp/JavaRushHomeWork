@@ -18,4 +18,5 @@ public class Solution
         int money = Integer.parseInt(reader.readLine());
         System.out.println("Я буду зарабатывать $"+ money+" в час");
     }
+
 }
