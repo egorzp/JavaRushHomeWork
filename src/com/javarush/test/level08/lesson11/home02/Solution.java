@@ -49,7 +49,7 @@ public class Solution
     {
         HashSet<Object> result = new HashSet<Object>();
         result.addAll(cats);
-        result.add(dogs);
+        result.addAll(dogs);
         return result;
     }
 
